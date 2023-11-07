@@ -7,11 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="libs1" level="project" />
-    <orderEntry type="library" name="libs2" level="project" />
+    <orderEntry type="library" name="unit-tests-1(Код семинара)" level="project" />
     <orderEntry type="library" name="libs" level="project" />
     <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="libs1" level="project" />
+    <orderEntry type="library" name="libs2" level="project" />
     <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="Seminar_1" level="project" />
     <orderEntry type="module" module-name="unit-tests-1(Код семинара)" />
   </component>
 </module>

@@ -13,6 +13,14 @@ public class Car extends Vehicle {
         this.numWheels = 4;
         this.speed = 0;
     }
+
+    public Car() {
+        this.company = "Ford";
+        this.model = "Mustang";
+        this.yearRelease = 2022;
+        this.numWheels = 4;
+        this.speed = 0;
+    }
     public void testDrive() { this.speed = 60; }
     public void park() { this.speed = 0; }
     public String getCompany() { return company; }
@@ -21,4 +29,5 @@ public class Car extends Vehicle {
     public int getNumWheels() { return numWheels; }
     public int getSpeed() { return speed; }
     public String toString() { return "This car is a “ + year + “ “ + make + “ “ + model + ";}
+
 }
